@@ -1,7 +1,5 @@
 # SpringMVC-based-Restfull-API-template
 
-A basic CRUD operation with Restfull API template has been implemented here which is based on Spring Web MVC framework.
-
 How to run:
 1. Create a MySQL database named 'lms' where table name=departments, column=id(not null, Primary key, autoincrement), name(char).
 
