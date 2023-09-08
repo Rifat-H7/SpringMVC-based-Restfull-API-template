@@ -1,5 +1,10 @@
 # SpringMVC-based-Restfull-API-template
 
+Technologies used:
+1. Spring Web MVC
+2. Hibernate with session
+3. MySQL
+
 How to run:
 1. Create a MySQL database named 'lms' where table name=departments, column=id(not null, Primary key, autoincrement), name(char).
 
